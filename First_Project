@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>First project</title>
+    <meta name="description" content="My first page">
+</head>
+
+<body>
+    <h1>This page is with sweets</h1>
+    <h2>You can read about it!</h2>
+    <HR>
+    <div><strong>Ice cream</strong> brownie pudding tiramisu pie. Carrot cake topping <strong>chocolate</strong> cake
+        liqurice sweet souffle
+        croissant. Cheesecake jelly-o candy canes cookie apple pie jujubes. Candy canes pudding caramels biscuit tootsie
+        roll candy. Donut caramels cake.
+        <em>Bonbon jelly-o chocolate cake caramels bear claw pie chocolate cake donut pastry</em>
+    </div>
+    <br>
+    <div>Read more ></div>
+    <br>
+    <div><u>Updated 2017-08-07</u></div>
+    <br>
+    <h2>Choose your favorite sweets</h2>
+    <ul>
+        <li>cupcake</li>
+        <li>chocolate</li>
+        <li>lolipop</li>
+        <li>gummies</li>
+        <li>another gummies</li>
+        <li>croisant</li>
+    </ul>
+    <h2>Structures in our company</h2>
+    <ol>
+        <li>John Sweet, Owner</li>
+        <ul>
+            <li>all things related with doing bussines</li>
+        </ul>
+        <li> Madlaine Kowalski, Marketing</li>
+        <ul>
+            <li>all things related with marketing</li>
+        </ul>
+        <li>Paul Markov, Sales</li>
+        <ul>
+            <li>Meet with clients</li>
+        </ul>
+        <li>John Sweet, Owner</li>
+        <ul>
+            <li>Cooking</li>
+            <li>Prepare new recipies</li>
+        </ul>
+    </ol>
+</body>
+
+</html>
